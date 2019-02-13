@@ -1,6 +1,6 @@
 # Landing Page with Countdown
 
-!(img/logo.png)
+![home](https://user-images.githubusercontent.com/16615266/52745027-bedf7100-2fa3-11e9-83b1-4ab2c1cac955.JPG)
 
 ### Author
 
