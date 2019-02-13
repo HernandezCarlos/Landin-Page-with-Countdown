@@ -1,5 +1,7 @@
 # Landing Page with Countdown
 
+![GitHub Logo](images/logo.png)
+
 ### Author
 
 Carlos Hernández
