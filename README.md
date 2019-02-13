@@ -1,6 +1,6 @@
 # Landing Page with Countdown
 
-![GitHub Logo](images/logo.png)
+!(img/logo.png)
 
 ### Author
 
